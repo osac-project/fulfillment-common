@@ -1,4 +1,4 @@
-module github.com/innabox/fulfillment-common
+module github.com/osac-project/fulfillment-common
 
 go 1.24.5
 

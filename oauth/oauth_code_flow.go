@@ -25,8 +25,8 @@ import (
 
 	"github.com/google/go-querystring/query"
 
-	"github.com/innabox/fulfillment-common/auth"
-	"github.com/innabox/fulfillment-common/network"
+	"github.com/osac-project/fulfillment-common/auth"
+	"github.com/osac-project/fulfillment-common/network"
 )
 
 type codeFlow struct {

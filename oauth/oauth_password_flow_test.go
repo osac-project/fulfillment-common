@@ -24,7 +24,7 @@ import (
 	. "github.com/onsi/gomega/ghttp"
 	"go.uber.org/mock/gomock"
 
-	"github.com/innabox/fulfillment-common/auth"
+	"github.com/osac-project/fulfillment-common/auth"
 )
 
 var _ = Describe("Password flow", func() {

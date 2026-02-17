@@ -24,8 +24,8 @@ import (
 	. "github.com/onsi/ginkgo/v2/dsl/table"
 	. "github.com/onsi/gomega"
 
-	. "github.com/innabox/fulfillment-common/testing"
-	"github.com/innabox/fulfillment-common/text"
+	. "github.com/osac-project/fulfillment-common/testing"
+	"github.com/osac-project/fulfillment-common/text"
 )
 
 var _ = Describe("Engine", func() {

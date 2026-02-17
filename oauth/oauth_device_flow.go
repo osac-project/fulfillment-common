@@ -20,7 +20,7 @@ import (
 	"log/slog"
 	"time"
 
-	"github.com/innabox/fulfillment-common/auth"
+	"github.com/osac-project/fulfillment-common/auth"
 )
 
 type deviceFlow struct {

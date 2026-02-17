@@ -24,7 +24,7 @@ import (
 	"slices"
 	"strings"
 
-	"github.com/innabox/fulfillment-common/logging"
+	"github.com/osac-project/fulfillment-common/logging"
 )
 
 // CommandBuilder contains the data and logic needed to create an object that helps execute a command line tool. Don't
