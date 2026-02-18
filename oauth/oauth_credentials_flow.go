@@ -17,7 +17,7 @@ import (
 	"context"
 	"log/slog"
 
-	"github.com/innabox/fulfillment-common/auth"
+	"github.com/osac-project/fulfillment-common/auth"
 )
 
 type credentialsFlow struct {

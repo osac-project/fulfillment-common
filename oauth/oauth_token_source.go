@@ -35,9 +35,9 @@ import (
 	"github.com/google/go-querystring/query"
 	"github.com/skratchdot/open-golang/open"
 
-	"github.com/innabox/fulfillment-common/auth"
-	"github.com/innabox/fulfillment-common/network"
-	"github.com/innabox/fulfillment-common/templating"
+	"github.com/osac-project/fulfillment-common/auth"
+	"github.com/osac-project/fulfillment-common/network"
+	"github.com/osac-project/fulfillment-common/templating"
 )
 
 //go:embed templates

@@ -26,7 +26,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/innabox/fulfillment-common/network"
+	"github.com/osac-project/fulfillment-common/network"
 )
 
 // ServerMetadata represents the authorization server metadata structure as defined in RFC 8414 for OAuth 2.0 or in the

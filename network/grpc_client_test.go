@@ -26,7 +26,7 @@ import (
 	healthpb "google.golang.org/grpc/health/grpc_health_v1"
 	"google.golang.org/grpc/metadata"
 
-	"github.com/innabox/fulfillment-common/testing"
+	"github.com/osac-project/fulfillment-common/testing"
 )
 
 var _ = Describe("gRPC client", func() {
